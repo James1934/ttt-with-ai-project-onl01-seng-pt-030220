@@ -16,9 +16,9 @@ module Players
         "2"
       #elsif board.cells[3] == " "
         "4"
-      elsif board.cells[5] == " "
+      #elsif board.cells[5] == " "
         "6"
-      elsif board.cells[7] == " "
+      #elsif board.cells[7] == " "
         "8"
       end
 
